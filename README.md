@@ -1,1 +1,4 @@
 # AbleHire
+## Problem Statement
+People with disabilities often face significant barriers in accessing employment opportunities due to a lack of inclusive job platforms, limited career guidance, and difficulty in finding suitable job roles based on their skills and abilities. Existing job portals do not cater specifically to their needs, making job discovery and application processes challenging.<br>
+To address this, we propose a Skill-based Gig Work Platform "ABLEHIRE" that leverages AI to recommend job opportunities based on an individual’s skills and  disability. The platform will connect differently-abled job seekers with employers looking for skilled workers, ensuring inclusivity and accessibility. Additionally, an AI-powered chatbot will provide career guidance, answering queries related to job opportunities, skill development, and career progression.
