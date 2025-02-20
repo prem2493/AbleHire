@@ -53,7 +53,7 @@ const NavBar = () => {
           </div>
 
           {/* Right side - Icons (Profile, Settings, Notifications) */}
-          <div className="flex items-center space-x-8">
+          <div className="flex items-center space-x-7">
             <div className="relative">
               {/* Notification Bell */}
               <button onClick={toggleDropdown} className="text-white relative">

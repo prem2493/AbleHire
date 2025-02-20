@@ -19,7 +19,7 @@ export default function Register() {
     try {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       await updateProfile(userCredential.user, { displayName: fullName });
-      navigate("/login"); // Redirect after successful registration
+      navigate("/profile"); // Redirect after successful registration
     } catch (err) {
       setError("Registration failed. Please try again.");
     }
